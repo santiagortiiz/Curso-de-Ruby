@@ -1,0 +1,6 @@
+// Consola CMD
+irb		# inicia el modo ruby
+RUBY_VERSION	# Dentro del modo ruby dice que versión tenemos
+CTRL + d	# Salir del modo ruby
+
+
